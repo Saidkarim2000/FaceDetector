@@ -1,1 +1,1 @@
-# FaceDetector app that is written using Python language and OpenCV library
+# FaceDetector program that is written using Python language and OpenCV library
